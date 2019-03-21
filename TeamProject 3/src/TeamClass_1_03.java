@@ -12,7 +12,7 @@ public class TeamClass_1_03 {
 
    public static void main(String[ ] args) throws IOException {
    
-	  // CHANGE THIS BEFORE RUNNING: MUST MANUALLY SPECIFY FILE PATH
+	  // CHANGE THIS BEFORE RUNNING:MUST MANUALLY SPECIFY FILE PATH
 	  final String SOURCE_PATH = "C:\\Users\\ryth\\git\\Project-3\\";
 	   
       // Declarations
