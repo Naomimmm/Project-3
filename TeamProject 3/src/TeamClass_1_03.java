@@ -59,7 +59,6 @@ public class TeamClass_1_03 {
       // TODO remove me
       System.out.println("DONE, NO ERRORS THROWN");
    } // End main
-	// my name is Hershey
 	
 
    //************************************************************************
