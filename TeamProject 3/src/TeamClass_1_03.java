@@ -37,6 +37,8 @@ public class TeamClass_1_03 {
       PrintWriter outputFile = new PrintWriter(outputDataFile);
       
       // ******** End declarations, begin execution ********
+      // Hershey
+      
       
       // Get the maximum # of elements and allocate array sizes
       numElements = inputFile.nextInt();
