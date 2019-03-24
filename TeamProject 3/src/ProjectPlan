@@ -1,0 +1,42 @@
+Full 'Specifications' located on David Kramer's Blackboard 
+
+Put your initials above to steps that you want to complete.
+
+Step 1: Main Method 
+	- Should declare all variables
+	- Read and write data to two seperate files
+	- The first item in the input file contains a integer value
+		- The rest of the values are double values
+	- use an If/else/if construct and the scale below to calculate the mileage
+		- only if the input value is > 0
+	- Output the results to the output file
+		- (Full formatting guide on onedrive file)
+		
+Step 2: 
+	- explain the program to the user (using a method)
+	
+Step 3:
+	- A method using mileage array as a parameter 
+		- reads the mileage values from the input file (?)
+			- use the same approach as project 1 for reading a file
+		- stores them in the mileage array
+		- Performs NO calculation
+		
+Step 4: 
+	- Method with parameters of two arrays and an integer 
+	- calculates the array of reimbursement amounts (one of the parameters)
+		- if the mileage value is negative or 0, the corresponding reimbursement amount should be zero. 
+		
+Step 5: 2 methods
+	- Method that prints the headings for the output file
+	- Method that prints the contents of two arrays in the output file
+		- each detail line of the table contais the number of miles and the reimbursement amount
+		- if the input value is <= 0, output five stars '*****'
+		- format using leftPad
+		
+Step 6:
+	- use a method or methods to calculate:
+		- average reimbursement 
+		- average number of miles traveled 
+			- These averages will be the averages for miles > 0. 
+		- Also, output total milage values that are > 0, and the two averages calculated. 
